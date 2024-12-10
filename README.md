@@ -10,3 +10,5 @@ en material symbols
 https://fonts.google.com/icons
 encontramos los iconos para el sitio
 agreamos iconos de guardar, subir mas
+
+agregamos imagenes y se da formato
