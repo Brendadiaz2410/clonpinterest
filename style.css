@@ -22,7 +22,7 @@ header nav{
 }
 
 #pinterest-icon{
-    width: 35px;
+    width: 40px;
     height: 35px;
     padding: 4px;
 
@@ -99,17 +99,17 @@ header nav{
 }
 
 .imagenes{
-    columns: 5 240px;
+    columns:  5 240x;
     margin: auto;
 }
 .card-image{
     position: relative;
-    padding: 60px;
+    padding: 10px;
 }
 .card-image img{
     border-radius: 15px;
-    min-width: 250px;
-    max-width: 440px;
+    min-width: 240px;
+    max-width: 240px;
 }
 .card-image:hover > :first-child{
     filter: brightness(60%);
@@ -118,4 +118,47 @@ header nav{
 visibility: visible;
 display: inline;
 }
+.button{
+    position: absolute;
+    left: 55%;
+    top: 5%;
+    padding: 13px 15px;
+    background: purple;
+    border-radius: 30px;
+    border: none;
+    visibility: hidden;
+}
 
+.button a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+.oculto1{
+    position: absolute;
+    left: 60%;
+    bottom: 20px;
+    background-color: white;
+    font-size: 30px;
+    border-radius: 50px;
+    color: black;
+    font-weight: bold;
+    padding: 4px;
+    visibility: hidden;
+    display: none;
+}
+.oculto2{
+    position: absolute;
+    left: 78%;
+    bottom: 20px;
+    background-color: white;
+    font-size: 30px;
+    border-radius: 50px;
+    color: black;
+    font-weight: bold;
+    padding: 4px;
+    visibility: hidden;
+    display: none;
+}
