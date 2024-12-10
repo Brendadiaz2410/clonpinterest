@@ -1,1 +1,7 @@
 Creando clon pinterest
+Estaremos creado el Index, es donde mostraremos la pantalla principal de nuestro sitio
+    crearemos el header
+        dentro de header creamos el menu 
+    main
+Se crea el Style que es donde se le dara formato al sitio
+Creamos la carpeta de assets donde guardaremos los archivos de imagen o iconos utilizados
